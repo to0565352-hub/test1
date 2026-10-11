@@ -1,0 +1,8 @@
+{
+  "name": "creator-hub-mvp",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A lightweight Ko-fi-inspired creator platform MVP",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
